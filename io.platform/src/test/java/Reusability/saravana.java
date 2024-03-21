@@ -7,6 +7,7 @@ public class saravana {
 		System.out.println("saravana");
 //		System.out.println("sunil");
 		System.out.println("kumar");
+		System.out.println("kumar");
 		
 	}
 
