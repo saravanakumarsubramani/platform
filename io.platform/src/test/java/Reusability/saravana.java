@@ -6,7 +6,6 @@ public class saravana {
 		// TODO Auto-generated method stub
 		System.out.println("saravana");
 		System.out.println("kishore");
-		
+		System.out.println("vasanth");	
 	}
-
 }
